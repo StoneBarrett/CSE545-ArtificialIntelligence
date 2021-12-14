@@ -1,0 +1,52 @@
+{
+    "params": [
+        {
+            "scramble": "R F M' M' S L' F L S' B2 L2 R' E2 U2 M' L' B2 R' F' B' L",
+            "pop_size": 1500,
+            "num_gens": 50,
+            "elitism": 5
+        },
+        {
+            "scramble": "R F M' M' S L' F L S' B2 L2 R' E2 U2 M' L' B2 R' F' B' L",
+            "pop_size": 1500,
+            "num_gens": 50,
+            "elitism": 5
+        },
+        {
+            "scramble": "R F M' M' S L' F L S' B2 L2 R' E2 U2 M' L' B2 R' F' B' L",
+            "pop_size": 1500,
+            "num_gens": 50,
+            "elitism": 5
+        },
+        {
+            "scramble": "R F M' M' S L' F L S' B2 L2 R' E2 U2 M' L' B2 R' F' B' L",
+            "pop_size": 1500,
+            "num_gens": 50,
+            "elitism": 5
+        },
+        {
+            "scramble": "R F M' M' S L' F L S' B2 L2 R' E2 U2 M' L' B2 R' F' B' L",
+            "pop_size": 1500,
+            "num_gens": 50,
+            "elitism": 5
+        },
+        {
+            "scramble": "R F M' M' S L' F L S' B2 L2 R' E2 U2 M' L' B2 R' F' B' L",
+            "pop_size": 1500,
+            "num_gens": 50,
+            "elitism": 5
+        },
+        {
+            "scramble": "R F M' M' S L' F L S' B2 L2 R' E2 U2 M' L' B2 R' F' B' L",
+            "pop_size": 1500,
+            "num_gens": 50,
+            "elitism": 5
+        },
+        {
+            "scramble": "R F M' M' S L' F L S' B2 L2 R' E2 U2 M' L' B2 R' F' B' L",
+            "pop_size": 1500,
+            "num_gens": 50,
+            "elitism": 5
+        }
+    ]
+}
